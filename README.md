@@ -18,6 +18,7 @@ In this repository, we will utilize the ASP.NET Core MVC Web Application that wa
 The final repository will undergo branching to the main repository and will include a comprehensive report built using Power BI.
 
 ## Context Diagram
+![Blank diagram](https://github.com/OKGaosenkwe/CMPG-323-Overview-29065038/assets/92356409/d4fea39b-6ca9-4fad-a93a-8f1923fd06ca)
 
 ## Branching Strategy 
 
