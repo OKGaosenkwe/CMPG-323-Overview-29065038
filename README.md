@@ -18,10 +18,21 @@ In this repository, we will utilize the ASP.NET Core MVC Web Application that wa
 The final repository will undergo branching to the main repository and will include a comprehensive report built using Power BI.
 
 ## Context Diagram
+All repositories refer back to one Kanban Guide, and are a build up of each other. You can't move on to the next project without completing the previous one.
 ![Blank diagram](https://github.com/OKGaosenkwe/CMPG-323-Overview-29065038/assets/92356409/d4fea39b-6ca9-4fad-a93a-8f1923fd06ca)
 
 ## Branching Strategy 
+Overall, the GitHub flow strategy will be used for all projects. It's used for continuous integration and frequent deployments and well suited for individual projects.
+
+For Project 1, I will be using the Centralized workflow, where I'll be committing directly into the main branch.
+
+For Project 2, Pattern-Based Strategy will be utilised for the API automation. The branches being, Main - Develop and Feature
+
+In Project 3, I'll be utilizing the Forking strategy to make independent changes to it.
+
+And for Project 4, branches are Main - Develop - Release - Feature.
 
 ## The Use of a .gitignore File Within Each Project
+It will prevent unnecessary files from being tracked during development, it will also help maintain a cleaner repository. The .gitignore file will also help to avoid leakage of sensitive information such as API keys, passwords and private configuration files.
 
 ## Storage of Credentials and Sensitive Information
