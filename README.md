@@ -5,7 +5,7 @@ This repository will be used throughout the academic term, by merging or linking
 ## Project 1 - Agile & Scrum
 This repository will serve as the primary, user-friendly guide for the first project, Kanban project, demonstrating the practical application of Agile & Scrum principles. It will highlight the skills acquired. The Kanban project will be used to plan and track my work throughout the semester effectively. It allows me to review all submission dates and tasks associated with each project, and how I will spend my time on training and completing projects. This will continuously be updated as I progress from one project to the next. 
 
-## Project 2 - API Development
+## [Project 2 - API Development](https://github.com/OKGaosenkwe/CMPG-323-Project-2-29065038.git)
 The project 2 repository will be utilized to create a CRUD (Create, Read, Update, Delete) RESTful API. This API will establish connections with a database designed to store orders related to solar energy systems. By implementing the CRUD operations, the API will enable seamless interactions for managing the solar energy system orders, allowing users to create new orders, retrieve existing ones, update order details, and remove orders as needed. This setup will enhance the overall efficiency and functionality of handling solar energy system data.
 
 ## Project 3 - Standards & Patterns
