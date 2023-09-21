@@ -8,7 +8,7 @@ This repository will serve as the primary, user-friendly guide for the first pro
 ## [Project 2 - API Development](https://github.com/OKGaosenkwe/CMPG-323-Project-2-29065038.git)
 The project 2 repository will be utilized to create a CRUD (Create, Read, Update, Delete) RESTful API. This API will establish connections with a database designed to store orders related to solar energy systems. By implementing the CRUD operations, the API will enable seamless interactions for managing the solar energy system orders, allowing users to create new orders, retrieve existing ones, update order details, and remove orders as needed. This setup will enhance the overall efficiency and functionality of handling solar energy system data.
 
-## Project 3 - Standards & Patterns(https://github.com/OKGaosenkwe/CMPG-323-Project-3-29065038.git)
+## [Project 3 - Standards & Patterns](https://github.com/OKGaosenkwe/CMPG-323-Project-3-29065038.git)
 The development of a this repository will be containing an existing ASP.NET Core MVC Web Application that will be enhanced and improved.
 
 ## Project 4 - Testing & PRA
